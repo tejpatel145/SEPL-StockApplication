@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/white</item>
+
+    </style>
+
+    <style name="SpinnerBack" parent="@android:style/Widget.Holo.Light.Spinner">
+        <item name="android:backgroundTint">@color/colorAccent</item>
+    </style>
+</resources>

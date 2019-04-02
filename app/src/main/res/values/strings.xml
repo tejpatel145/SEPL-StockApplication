@@ -1,0 +1,63 @@
+<resources>
+    <!--<string name="app_name">Stock Application</string>-->
+    <string name="email">Email</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="drum_number">Drum Number</string>
+    <string name="cable_size">Cable Size</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="job_number">Job Number</string>
+    <string name="meter">Meter</string>
+    <string name="statusnew">New</string>
+    <string name="inprocess">InProcess</string>
+    <string name="finish">Finish</string>
+    <string name="status">Status</string>
+    <string name="stocktype">Stock Type</string>
+    <string name="remark">Remark</string>
+    <string name="search_by">Search By</string>
+    <string name="select">Select</string>
+    <string name="select_filter">Select Your Filter</string>
+    <string name="search">Search</string>
+    <string name="add_new_drum">Add New Drum</string>
+    <string name="add_drum">Add Drum</string>
+    <string name="update_drum">Update Drum</string>
+    <string name="logout">Logout</string>
+    <string name="ok">OK</string>
+    <string name="month">Month</string>
+    <string name="selected_month">Select Month</string>
+    <string name="select_day">Select Day</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="toast_internet_unavailable">Please Check Your Internet Connection.</string>
+    <string name="date">Date</string>
+    <string name="home">Home</string>
+    <string name="suyog">SEPL-Stock</string>
+    <string name="not_define">N/A</string>
+    <string name="comment">Comment</string>
+    <string name="condType">condType</string>
+    <string name="stage">Stage</string>
+    <string name="location">Location</string>
+    <string name="exitMsg">Press again to exit</string>
+    <string name="please_wait">Please wait&#8230;</string>
+    <string name="advance_filter">Advance \n Filter</string>
+    <string name="no_connection">No CONNECTION</string>
+    <string name="msg_please_check_your_internet">Please check your internet connection and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="na">N/A</string>
+
+    <array name="inprocessarray">
+        <item>Drum Number</item>
+        <item>Size</item>
+        <item>Date</item>
+        <item>Job Number</item>
+        <item>Meter</item>
+        <item>Remark</item>
+        <item>Comment</item>
+        <item>Update</item>
+        <item>Cond Type</item>
+        <item>Stage</item>
+        <item>Location</item>
+    </array>
+</resources>

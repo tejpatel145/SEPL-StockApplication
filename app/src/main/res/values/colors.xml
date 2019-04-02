@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhiteBackground">#FFFFFF</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorGreen">#008000</color>
+    <color name="colorSeaGreen">#3CB371</color>
+    <color name="colorBlue">#0000FF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorGrey">#D2D2D2</color>
+    <color name="colorDarkGrey">#9E9E9E</color>
+    <color name="chip_background">#BDBDBD</color>
+    <color name="chip_background_selected">#9E9E9E</color>
+</resources>
